@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
+- 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush)
 
 - 📫 How to reach me **gameraayushpandey1100@gmail.com**
 
