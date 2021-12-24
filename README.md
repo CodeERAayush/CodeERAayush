@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
 
 - 📫 How to reach me **gameraayushpandey1100@gmail.com**
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/codeeraayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codeeraayush" height="30" width="40" /></a>
