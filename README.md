@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aayush Pandey</h1>
+<h1 align="center">Hi, I'm Aayush Pandey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px"></h1>
 <h3 align="left">A passionate Android developer from India. Learning new technologies and interested in contributions that make my knowledge useful for others.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=codeeraayush&label=Profile%20views&color=0e75b6&style=flat" alt="codeeraayush" /> </p>
@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
 
 - 📫 How to reach me **gameraayushpandey1100@gmail.com**
+-  💬 Ask me about **java**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +34,30 @@
 <p><a href="https://www.buymeacoffee.com/codeERAayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeERAayush" /></a><a href="https://ko-fi.com/codeeraayush"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codeeraayush" /></a></p><br><br>
 
 <hr>
+<h3 align="left"> Some of my stats 📊:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeERAayush&langs_count=8$theme=midnight-purple" alt="CodeERAayush" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeeraayush&show_icons=true&locale=en" alt="codeeraayush" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeeraayush&show_icons=true&locale=en&layout=compact" alt="codeeraayush" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeeraayush&" alt="codeeraayush" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeERAayush&show_icons=true&theme=midnight-purple" alt="CodeERAayush" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeERAayush&" alt="CodeERAayush" /></p>
+
+
+<p> <img scr="https://github-readme-stats.vercel.app/api/pin/?username=CodeERAayush&repo=https://github.com/CodeERAayush/myportfolio"> </p> 
+
+<hr>
+<br>
+<h3 align="centre">Top Repositories </h3>
+
+
+<a href="https://github.com/CodeERAayush/Banking-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeERAayush&repo=CodeERAayush/Banking-App&theme=buefy" /></a>
+<a href="https://github.com/CodeERAayush/Android-Dev.-Beginning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeERAayush&repo=CodeERAayush/Android-Dev.-Beginning&theme=buefy" />
+</a>
+
+<p> 
+   <br>
+   <i>“ Code is like humor. When you have to explain it, it’s bad.” </i>
+   <br>
+  <i> – Cory House </i>
+     </p>
