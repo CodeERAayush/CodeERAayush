@@ -36,11 +36,11 @@
 <h3 align="left"> Some of my stats 📊:</h3>
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeeraayush&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codeeraayush" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeeraayush&langs_count=8&show_icons=true&locale=en&theme=tokyonight" alt="codeeraayush" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeeraayush&show_icons=true&theme=midnight-purple" alt="codeeraayush" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeeraayush&show_icons=true&theme=tokyonight" alt="codeeraayush" /></p>
 
-<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeeraayush&theme=midnight-purple" alt="codeeraayush" /></p>
+<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeeraayush&theme=tokyonight" alt="codeeraayush" /></p>
 
 
 <p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=codeeraayush&repo=https://github.com/codeeraayush/myportfolio"> </p> 
