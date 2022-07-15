@@ -33,7 +33,18 @@
 <p><a href="https://www.buymeacoffee.com/codeERAayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeERAayush" /></a><a href="https://ko-fi.com/codeeraayush"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codeeraayush" /></a></p><br><br>
 
 <hr>
+<h3 align="left"> Some of my stats 📊:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeeraayush&show_icons=true&locale=en" alt="codeeraayush" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeeraayush&show_icons=true&locale=en&layout=compact" alt="codeeraayush" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeeraayush&" alt="codeeraayush" /></p>
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeeraayush&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codeeraayush" /></p>
+
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeeraayush&show_icons=true&theme=midnight-purple" alt="codeeraayush" /></p>
+
+<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeeraayush&theme=midnight-purple" alt="codeeraayush" /></p>
+
+
+<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=codeeraayush&repo=https://github.com/codeeraayush/myportfolio"> </p> 
+ 
+ 
+
+
