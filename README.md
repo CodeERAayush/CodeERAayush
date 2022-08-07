@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeeraayush" alt="codeeraayush" /></a> </p>
 
-- 🔭 I’m currently working on Study Platform Project **LetsDoSomething**
+- 🔭 I’m currently working on Study Platform Project **iLibrary**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
 
