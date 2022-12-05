@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Study Platform Project **iLibrary**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently doing **React**
 
 - 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
 
