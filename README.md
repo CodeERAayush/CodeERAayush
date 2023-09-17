@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
 
-- 📫 How to reach me **gameraayushpandey1100@gmail.com**
+- 📫 How to reach me **dev.aayushpandey@gmail.com**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
