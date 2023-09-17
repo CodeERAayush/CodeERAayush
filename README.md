@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeeraayush" alt="codeeraayush" /></a> </p>
 
-- 🔭 I’m currently working on Study Platform Project **iLibrary**
+- 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently doing **React**
 
